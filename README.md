@@ -10,6 +10,7 @@ Features
 
 Upload Pictures 
 Pictures will be saved in Firebase
+Working on more features
 
 
 ### Demo : [https://manoj-picgram.web.app/]
